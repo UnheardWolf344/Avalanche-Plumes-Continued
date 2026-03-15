@@ -1,5 +1,6 @@
 # Avalanche Plumes Continued
-**Avalanche Plumes Continued** is an update of the original [Avalanche Plumes](https://github.com/KochieBR/Avalanche-Plumes) by [KochieBR](https://github.com/KochieBR)
+**Avalanche Plumes Continued** is an update of the original [Avalanche Plumes](https://github.com/KochieBR/Avalanche-Plumes) by [KochieBR](https://github.com/KochieBR).
+
 This version contains a fix to plumes continuing to show up after the boosters have run out of fuel.
 
 ## Dependencies: 
